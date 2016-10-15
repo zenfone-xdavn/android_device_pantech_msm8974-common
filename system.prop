@@ -82,5 +82,3 @@ persist.timed.enable=true
 wifi.interface=wlan0
 wifi.supplicant_scan_interval=15
 
-# Sdcardfs
-ro.sdcardfs.enable=true
